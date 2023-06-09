@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "165297877892",
+    "project_id": "my-cinema-app-c014d",
+    "storage_bucket": "my-cinema-app-c014d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165297877892:android:558e1c0c77060a1301a3d1",
+        "android_client_info": {
+          "package_name": "com.example.BTL"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165297877892-2ee2cmdqsusmv6p56h2psnnlmavd14ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpyNg9PkoXQyZjqSRV9tcYEUZLEXLnAi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165297877892-2ee2cmdqsusmv6p56h2psnnlmavd14ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165297877892:android:fe103f83eb31a11101a3d1",
+        "android_client_info": {
+          "package_name": "com.ldt.cinematicket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165297877892-2ee2cmdqsusmv6p56h2psnnlmavd14ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpyNg9PkoXQyZjqSRV9tcYEUZLEXLnAi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165297877892-2ee2cmdqsusmv6p56h2psnnlmavd14ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
